@@ -1,0 +1,5 @@
+Pytorch code
+tensor(张量)
+torch.nn.linear(in_features,out_features,bias=ture)
+in_features（输入特征）= size of each input sample
+out_features(输出特征) = size of each output sample
